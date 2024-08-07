@@ -6,7 +6,7 @@ In this project, I analyzed customer purchasing patterns by cleaning and organiz
 
 ## Dashboards
 
-I have uploaded a file named `dashboards_picture` which includes pictures of the three dashboards I created in Tableau. These dashboards feature various filters and views to provide a comprehensive analysis of the data.
+I have uploaded a file named `DashboardPictures` which includes pictures of the three dashboards I created in Tableau. These dashboards feature various filters and views to provide a comprehensive analysis of the data.
 
 ## Dataset
 

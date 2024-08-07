@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-In this project, I analyzed customer purchasing patterns by cleaning and organizing the data, and performing exploratory data analysis. I created three interactive dashboards in Tableau to highlight key insights such as top products per category, purchase frequencies, and order times.
+In this project, I analyzed customer purchasing patterns by cleaning and organizing the data and performing exploratory data analysis. I created three interactive dashboards in Tableau to highlight key insights such as top products per category, purchase frequencies, and order times. This was a project in the MSCI-630 Human-Computer Interaction course.
 
 ## Dashboards
 
